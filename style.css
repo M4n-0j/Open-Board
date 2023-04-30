@@ -162,3 +162,7 @@ textarea{
     resize:none;
     outline: none;
 }
+.img{
+    height: 100%;
+    width:100%;
+}
