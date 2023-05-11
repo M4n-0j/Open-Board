@@ -38,7 +38,6 @@ function closeTools() {
 pencil.addEventListener("click", (e) => {
     //true ->show pencil tool, false -> hide pencil
     pencilFlag = !pencilFlag;
-    console.log(pencilFlag);
     if (pencilFlag) {
 
         pencilToolCont.style.display = "block";
